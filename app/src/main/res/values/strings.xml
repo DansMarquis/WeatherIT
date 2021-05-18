@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherIT</string>
+    <string name="lisbon">Lisbon</string>
+    <string name="madrid">Madrid</string>
+    <string name="paris">Paris</string>
+    <string name="berlin">Berlin</string>
+    <string name="copenhagen">Copenhagen</string>
+    <string name="rome">Rome</string>
+    <string name="london">London</string>
+    <string name="dublin">Dublin</string>
+    <string name="prague">Prague</string>
+    <string name="vienna">Vienna</string>
+</resources>
