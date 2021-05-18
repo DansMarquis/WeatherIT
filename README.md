@@ -2,9 +2,9 @@
  <p float="left" align="center" style="color:#00A5DC"><a href="https://www.wit-software.com"><img src="assets/wit.png" width="100" /> <b>Challenge</b></p>
 
 <p float="left" align="center">
-  <img src="assets/pick.png" width="300" />
-  <img src="assets/main.png" width="300" /> 
-  <img src="assets/find.png" width="300" />
+  <img src="assets/pick.png" width="200" />
+  <img src="assets/main.png" width="200" /> 
+  <img src="assets/find.png" width="200" />
 </p>
 
 **Requirements**
